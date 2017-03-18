@@ -1,1 +1,1 @@
-rvm use --create ruby-2.2.0@alexagram
+rvm use --create ruby-2.2.2@alexagram
